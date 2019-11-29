@@ -1,2 +1,2 @@
 # pyProjects
-A bunch of python projects to test your python knowledge.
+Test your python knowledge with these project ideas!
