@@ -7,5 +7,6 @@ This **python** project repository will allow you to...
     Create Useful .py Files
     Practice Python
 
+When you are finished with all projects, put them in a .zip and call it completeprojects.zip inside the pyProjects folder.
 ### Download the repository and have fun!
 ###### -Trifield
