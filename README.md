@@ -16,5 +16,7 @@ Explaining all projects through flowcharts
 Coding all projects in a different programming language
 Completing all challenges within 30 lines of code in the main .py file.
 ```
+Challenges you complete, put in a completedchallenges.zip inside the pyProjects folder.\
+My python focused discord server: [Discord Server](https://discord.gg/AhgnCu6)
 ### Have fun!
 ###### -Trifield
