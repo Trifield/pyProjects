@@ -8,5 +8,13 @@ This **python** project repository will allow you to...
     Practice Python
 
 When you are finished with all projects, put them in a .zip and call it completeprojects.zip inside the pyProjects folder.
-### Download the repository and have fun!
+## Challenges
+There are challenges in this as well, in the challenges folder.\
+Such challenges are
+```
+Explaining all projects through flowcharts
+Coding all projects in a different programming language
+Completing all challenges within 30 lines of code in the main .py file.
+```
+### Have fun!
 ###### -Trifield
